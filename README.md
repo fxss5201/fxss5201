@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![fxss5201's github stats](https://github-readme-stats.vercel.app/api?username=fxss5201&show_icons=true&include_all_commits=true)
+**[个人博客](https://blog.fxss.work/)：<https://blog.fxss.work/>**
 
-<!--
-[![vue-blog](https://github-readme-stats.vercel.app/api/pin/?username=vueBlog&repo=vue-blog)](https://github.com/vueBlog/vue-blog)
-[![vue-blog-express](https://github-readme-stats.vercel.app/api/pin/?username=vueBlog&repo=vue-blog-express)](https://github.com/vueBlog/vue-blog-express)
--->
+![fxss5201's github stats](https://github-readme-stats.vercel.app/api?username=fxss5201&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxss5201&layout=compact)
