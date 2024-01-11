@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 **[泛积木-低代码](https://www.fxss.work/)：<https://www.fxss.work/>**
 
+**[算法](https://fxss5201.github.io/fxss-leetcode/)：<https://fxss5201.github.io/fxss-leetcode/>**
+
 ![fxss5201's github stats](https://github-readme-stats.vercel.app/api?username=fxss5201&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxss5201&layout=compact)
