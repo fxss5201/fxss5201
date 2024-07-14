@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 **[算法](https://fxss5201.github.io/fxss-leetcode/)：<https://fxss5201.github.io/fxss-leetcode/>**
 
+**[f-cache-memory缓存库](https://github.com/fxss5201/f-cache-memory)：<https://github.com/fxss5201/f-cache-memory>**
+
 ![fxss5201's github stats](https://github-readme-stats.vercel.app/api?username=fxss5201&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxss5201&layout=compact)
