@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **[泛积木-低代码](https://www.fxss.work/)：<https://www.fxss.work/>**
 
-**[算法](https://fxss5201.github.io/fxss-leetcode/)：<https://fxss5201.github.io/fxss-leetcode/>** **国内网址：<https://www.fxss.work/fxss-leetcode/>**
+**算法：<https://github.com/fxss5201/fxss-leetcode>** **国内网址：<https://www.fxss.work/fxss-leetcode/>**
 
 **[f-cache-memory](https://github.com/fxss5201/f-cache-memory)：<https://github.com/fxss5201/f-cache-memory>** 缓存库，可用于接口缓存和数据操作缓存
 
